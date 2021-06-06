@@ -1,0 +1,54 @@
+/* footer {
+    background-color: black;
+    padding: none;
+}
+
+a{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+
+.navbar-toggler {
+    
+    margin-left: 71vw;
+    outline: none !important;
+   
+}
+
+@font-face{
+    font-family: bodyFont;
+    src: url(../fonts/Now-Regular.otf);
+}
+
+@font-face{
+    font-family: bodyFont2;
+    src: url(../fonts/Now-Light.otf);
+}
+
+
+@font-face{
+    font-family: bodyFont3;
+    src: url(../fonts/Now-Bold.otf);
+}
+
+
+
+html {
+    font-size: 15px;
+} */
+
+.navbar-nav {
+    font-weight:500;
+}
+
+html {
+    min-height: 100%;
+}
